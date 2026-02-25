@@ -1,5 +1,5 @@
 <?php
-
+namespace Src\Cliente\Application\Controllers;
 use Src\Cliente\Application\Controllers;
 
 use App\Http\Controllers\Controller;

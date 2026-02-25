@@ -1,5 +1,5 @@
 <?php
-
+namespace Src\Cliente\Application\Actions;
 use Src\Cliente\Application\Actions;
 
 use Src\Cliente\Domain\Entities\Cliente;
